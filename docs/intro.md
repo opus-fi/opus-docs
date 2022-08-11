@@ -20,3 +20,5 @@ Welcome to Opus Finance (hereinafter referred to as Opus), your all-in-one quint
 > This is **your home** on Neon. Your liquidity voyages start with Opus, and we will provide you the upmost experience in using DeFi protocols.
 
 ## All-in-one DeFi suite
+
+Opus serves multiple DeFi primitives and is your DeFi activity hub. In DeFi, we have almost everything you need: DEX, Farm, Stake, Lend/Borrow, Token and NFT Launchpad, NFT Marketplace, and so on.
