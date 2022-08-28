@@ -21,4 +21,4 @@ Welcome to Opus Finance (hereinafter referred to as Opus), your all-in-one quint
 
 ## All-in-one DeFi suite
 
-Opus serves multiple DeFi primitives and is your DeFi activity hub. In DeFi, we have almost everything you need: DEX, Farm, Stake, Lend/Borrow, Token and NFT Launchpad, NFT Marketplace, and so on.
+Opus serves multiple DeFi primitives and is your ultimate DeFi activity hub. By using Opus, we have everything you'll need need: DEX, Farm, Stake, Lend/Borrow, Launchpad, etc etc -- who knows what's next?
