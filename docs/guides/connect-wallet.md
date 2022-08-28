@@ -14,11 +14,11 @@ This page will guide you of how to connect to Neon EVM devnet, and this page wil
 3.  By the right corner, select the Network dropdown menu
 4.  Select **Add Network** in the bottom of dropdown menu
 5.  Fill in the details of Neon EVM Devnet:
-  - **Network Name::** Neon Devnet
-  - **New RPC URL::** [https://proxy.devnet.neonlabs.org/solana](https://proxy.devnet.neonlabs.org/solana)
-  - **Chain ID::** 245022926
-  - **Currency Symbol::** NEON
-  - **Block Explorer URL::** [https://neonscan.org/](https://neonscan.org/)
+  - **Network Name:** Neon Devnet
+  - **New RPC URL:** [https://proxy.devnet.neonlabs.org/solana](https://proxy.devnet.neonlabs.org/solana)
+  - **Chain ID:** 245022926
+  - **Currency Symbol:** NEON
+  - **Block Explorer URL:** [https://neonscan.org/](https://neonscan.org/)
 6. Click **Save**.
 
 Voila! You have successfully connecting your wallet to Neon EVM Devnet.
