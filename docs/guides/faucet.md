@@ -2,33 +2,14 @@
 sidebar_position: 2
 ---
 
-# Faucet
+# Devnet Faucet
 
-Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
+To interact within Neon EVM, you need to have their native token, **NEON**, as gas token. Hence, every transactions made in Neon will require you a small amount of NEON. Fortunately, Neon team made a faucet so you do not to worry a thing.
 
-## Create your first Post
-
-Create a file at `blog/2021-02-28-greetings.md`:
-
-```md title="blog/2021-02-28-greetings.md"
----
-slug: greetings
-title: Greetings!
-authors:
-  - name: Joel Marcey
-    title: Co-creator of Docusaurus 1
-    url: https://github.com/JoelMarcey
-    image_url: https://github.com/JoelMarcey.png
-  - name: Sébastien Lorber
-    title: Docusaurus maintainer
-    url: https://sebastienlorber.com
-    image_url: https://github.com/slorber.png
-tags: [greetings]
----
-
-Congratulations, you have made your first post!
-
-Feel free to play around and edit this post as much you like.
-```
-
-A new blog post is now available at `http://localhost:3000/blog/greetings`.
+Using Neon faucet is simple. Here it is:
+1. Visit the official faucet [website](https://neonfaucet.org/)
+2. Connect your wallet (make sure you are in Neon EVM Devnet in the MetaMask)
+3. Choose the token (primarily you need $NEON for gas token)
+4. Put the amount in
+5. Select **SEND TEST TOKENS**
+6. Wait until it arrives into your wallet, usually take less than a minute.

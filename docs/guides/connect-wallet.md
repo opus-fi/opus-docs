@@ -2,42 +2,23 @@
 sidebar_position: 1
 ---
 
-# Connect a Wallet
+# Connect to Neon EVM
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+MetaMask is preffered Ethereum wallet to interact with Opus. At the time of this writing, wallet connection to Opus products is only possible by using MetaMask. Wallet options expansions will be enabled by further updates and demands by the users. 
 
-- `src/pages/index.js` -> `localhost:3000/`
-- `src/pages/foo.md` -> `localhost:3000/foo`
-- `src/pages/foo/bar.js` -> `localhost:3000/foo/bar`
+This page will guide you of how to connect to Neon EVM devnet, and this page will be updated iteratively until Neon EVM mainnet release.
 
-## Create your first React Page
+## How to connect
+1.  Make sure you already have MetaMask installed within your browser. Please click [here](https://metamask.io/download/) if MetaMask has yet to be installed in your browser. The link will direct you to official MetaMask website
+2.  Open up your MetaMask extension
+3.  By the right corner, select the Network dropdown menu
+4.  Select **Add Network** in the bottom of dropdown menu
+5.  Fill in the details of Neon EVM Devnet:
+  - **Network Name::** Neon Devnet
+  - **New RPC URL::** [https://proxy.devnet.neonlabs.org/solana](https://proxy.devnet.neonlabs.org/solana)
+  - **Chain ID::** 245022926
+  - **Currency Symbol::** NEON
+  - **Block Explorer URL::** [https://neonscan.org/](https://neonscan.org/)
+6. Click **Save**.
 
-Create a file at `src/pages/my-react-page.js`:
-
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
-
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
-
-A new page is now available at `http://localhost:3000/my-react-page`.
-
-## Create your first Markdown Page
-
-Create a file at `src/pages/my-markdown-page.md`:
-
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
-
-This is a Markdown page
-```
-
-A new page is now available at `http://localhost:3000/my-markdown-page`.
+Voila! You have successfully connecting your wallet to Neon EVM Devnet.
