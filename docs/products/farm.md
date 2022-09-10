@@ -4,31 +4,6 @@ sidebar_position: 3
 
 # Farm
 
-Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
+As our DEX is an exchange with automated market maker type, there is need to have liquidity pool before an ERC-20 is being traded. 
 
-## Create your first Post
-
-Create a file at `blog/2021-02-28-greetings.md`:
-
-```md title="blog/2021-02-28-greetings.md"
----
-slug: greetings
-title: Greetings!
-authors:
-  - name: Joel Marcey
-    title: Co-creator of Docusaurus 1
-    url: https://github.com/JoelMarcey
-    image_url: https://github.com/JoelMarcey.png
-  - name: Sébastien Lorber
-    title: Docusaurus maintainer
-    url: https://sebastienlorber.com
-    image_url: https://github.com/slorber.png
-tags: [greetings]
----
-
-Congratulations, you have made your first post!
-
-Feel free to play around and edit this post as much you like.
-```
-
-A new blog post is now available at `http://localhost:3000/blog/greetings`.
+On the launch of $OPUS token, we will push incentivization for liquidity providers, meaning LP providers will be massively rewarded and incentivized by $OPUS token by depositing LP tokens. The reward is given in the form of $OPUS, and not all pools are rewarded. To learn pools that will be incentivized, stay tuned for the launch.
